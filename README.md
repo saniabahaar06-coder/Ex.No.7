@@ -30,6 +30,8 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
+output:
+[Personal_Productivity_Assistant_Output (3) exp 7.pdf](https://github.com/user-attachments/files/23025856/Personal_Productivity_Assistant_Output.3.exp.7.pdf)
 
 
 # Result: 
